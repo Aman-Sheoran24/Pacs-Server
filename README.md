@@ -11,3 +11,4 @@ python -m pip install pydicom
 python -m pip install -U pynetdicom
 
 pip install -U poetry
+pip install numpy
